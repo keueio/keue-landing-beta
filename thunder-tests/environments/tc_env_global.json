@@ -1,0 +1,15 @@
+{
+    "_id": "330f87f4-eda9-4e8e-9daa-d4dfd2825d0b",
+    "name": "(Global Env)",
+    "default": false,
+    "global": true,
+    "sortNum": -2,
+    "created": "2023-08-01T08:12:46.657Z",
+    "modified": "2023-08-01T08:12:46.658Z",
+    "data": [
+        {
+            "name": "apiKey",
+            "value": "O9rDrPc3MXh15k88xsxLhpcjN_Z_faLf14oF2FKzQV8"
+        }
+    ]
+}
