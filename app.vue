@@ -383,6 +383,9 @@ const mobileMenuOpen = ref(false);
 const route = useRoute();
 const mode = route.query?.mode || "light";
 useHead({
+    title: "Keue IO - Fully managed push queue service",
+    description:
+        "Get started in one click - Queue-as-a-service built for scale and reliability",
     htmlAttrs: {
         class: computed(() => {
             return mode;
