@@ -2,7 +2,7 @@
     <div class="bg-white py-24 sm:py-32">
         <div class="mx-auto max-w-7xl px-6 lg:px-8">
             <div class="mx-auto max-w-2xl lg:text-center">
-                <h2 class="text-base font-semibold leading-7 text-indigo-600">
+                <h2 class="text-base font-semibold leading-7 text-lime-600">
                     Deploy faster
                 </h2>
                 <p
@@ -29,7 +29,7 @@
                             class="text-base font-semibold leading-7 text-gray-900"
                         >
                             <div
-                                class="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-indigo-600"
+                                class="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-lime-600"
                             >
                                 <component
                                     :is="feature.icon"
