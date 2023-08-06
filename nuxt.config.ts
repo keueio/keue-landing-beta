@@ -10,4 +10,15 @@ export default defineNuxtConfig({
             autoprefixer: {},
         },
     },
+    nitro: {
+        prerender: {
+            routes: [],
+        },
+        future: {
+            nativeSWR: true,
+        },
+    },
+    experimental: {
+        payloadExtraction: false,
+    },
 });
