@@ -3,22 +3,10 @@
 export default defineNuxtConfig({
     devtools: { enabled: true },
     css: ["~/assets/css/main.css"],
-    ssr: true,
     postcss: {
         plugins: {
             tailwindcss: {},
             autoprefixer: {},
         },
-    },
-    nitro: {
-        prerender: {
-            routes: [],
-        },
-        future: {
-            nativeSWR: true,
-        },
-    },
-    experimental: {
-        payloadExtraction: false,
     },
 });
