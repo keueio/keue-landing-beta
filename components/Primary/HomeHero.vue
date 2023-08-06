@@ -29,7 +29,7 @@
             <div
                 class="mx-auto max-w-2xl lg:mx-0 lg:max-w-xl lg:flex-shrink-0 lg:pt-8"
             >
-                <img class="h-16" src="/Logo1.png" alt="Keue IO logo" />
+                <img class="h-16" src="~/assets/Logo1.png" alt="Keue IO logo" />
                 <div class="mt-16 sm:mt-32 lg:mt-16">
                     <a href="#" class="inline-flex space-x-6">
                         <span

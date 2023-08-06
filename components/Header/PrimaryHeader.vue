@@ -9,7 +9,7 @@
                     <span class="sr-only">Keue IO</span>
                     <img
                         class="h-12 w-auto"
-                        src="/icon.png"
+                        src="~/assets/icon.png"
                         alt="Keue IO Icon Logo"
                     />
                 </a>
@@ -136,7 +136,7 @@
                         <span class="sr-only">Your Company</span>
                         <img
                             class="h-8 w-auto"
-                            src="/icon.png"
+                            src="~/assets/icon.png"
                             alt="Keue IO Icon Logo"
                         />
                     </a>

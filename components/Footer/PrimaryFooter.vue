@@ -5,7 +5,7 @@
             class="mx-auto max-w-7xl px-6 pb-8 pt-16 sm:pt-24 lg:px-8 lg:pt-32"
         >
             <div class="xl:grid xl:grid-cols-3 xl:gap-8">
-                <img class="h-16" src="/Logo1.png" alt="Keue IO" />
+                <img class="h-16" src="~/assets/Logo1.png" alt="Keue IO" />
                 <div class="mt-16 grid grid-cols-2 gap-8 xl:col-span-2 xl:mt-0">
                     <div class="md:grid md:grid-cols-2 md:gap-8">
                         <div>
