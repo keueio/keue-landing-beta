@@ -9,9 +9,9 @@
 import { computed, ref } from "vue";
 import { useRoute } from "vue-router";
 import Footer from "@/components/Footer/PrimaryFooter.vue";
-import Header from "@/components/Header/Header.vue";
-import Featured from "@/components/Primary/Featured.vue";
-import Hero from "@/components/Primary/Hero.vue";
+import Header from "@/components/Header/PrimaryHeader.vue";
+import Featured from "@/components/Primary/HomeFeatured.vue";
+import Hero from "@/components/Primary/HomeHero.vue";
 
 const route = useRoute();
 const mode = route.query?.mode || "light";
