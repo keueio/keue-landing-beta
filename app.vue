@@ -8,7 +8,7 @@
 <script setup lang="ts">
 import { computed, ref } from "vue";
 import { useRoute } from "vue-router";
-import Footer from "@/components/Footer/Footer.vue";
+import Footer from "@/components/Footer/PrimaryFooter.vue";
 import Header from "@/components/Header/Header.vue";
 import Featured from "@/components/Primary/Featured.vue";
 import Hero from "@/components/Primary/Hero.vue";
